@@ -38,7 +38,7 @@ Add this to your system as
 
 Then, install as
 
-    sudo apt-get install libshogun17
+    sudo apt-get install libshogun16
 
 The Python (2) bindings can be installed as
 
